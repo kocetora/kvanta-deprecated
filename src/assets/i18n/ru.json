@@ -1,0 +1,115 @@
+{
+  "TITLE": "HR manager",
+  "HOME": {
+    "TITLE": "Домашняя страница",
+    "MENU": "Меню",
+    "LOGIN": "Войти",
+    "VIEW": "База",
+    "FORM": "Форма",
+    "LOGOUT": "Выйти",
+    "SIGN_UP": "Зарегистрироваться",
+    "NEW_ADMIN": "Создать админа",
+    "ERROR_404": "Ошибка 404",
+    "NOT_FOUND": "Страница не найдена"
+  },
+  "AUTH": {
+    "LOGIN": "Вход",
+    "SIGN_UP": "Регистрация",
+    "NEW_ADMIN": "Создать админа",
+    "USERNAME": "Имя пользователя",
+    "PASSWORD": "Пароль",
+    "SUBMIT": "Отправить"
+  },
+  "FORM": {
+    "EDIT": "Изменить форму",
+    "GET": "Експорт в PDF",
+    "PRIMARY": "Сделать главной",
+    "UPLOAD": "Загрузить фотографии",
+    "DELETE": "Удалить фото",
+    "SUBMITTED": "Отправлено",
+    "TITLE": "Форма",
+    "NAME": "Имя",
+    "SURNAME": "Фамилия",
+    "MIDDLENAME": "Отчество",
+    "SEX": {
+      "TITLE": "Пол",
+      "MALE": "Мужчина",
+      "FEMALE": "Женщина"
+    },
+    "BORN": "Дата рождения",
+    "HEIGHT": "Рост(см)",
+    "PHONE_NUMBER": "Номер телефона",
+    "EMAIL": "Email",
+    "EDUCATION": {
+      "TITLE": "Образование",
+      "PRIMARY": "Начальное",
+      "SECONDARY": "Среднее",
+      "UNFINISHED_HIGHER": "Незаконченное высшее",
+      "HIGHER": "Высшее"
+    },
+    "EXPECTED_SALARY": "Ожидаемая заработная плата($)",
+    "HINT": "Требуется как минимум одно поле",
+    "PREFFERED_REGION": "Желаемый регион трудоустройства",
+    "WORK_EXPERIENCE": "Опыт работы",
+    "UNEMPLOYED_FOR": "Не работаю по профессии уже",
+    "AGE": "Возраст",
+    "FROM": "От",
+    "TO": "До",
+    "YEARS": "Лет",
+    "MONTHS": "Мeсяцев",
+    "PUBLIC": "Публичная",
+    "LANGUAGE_SKILLS": "Знание языков",
+    "LANGUAGES": {
+      "TITLE": "Язык",
+      "ENGLISH": "Английский",
+      "RUSSIAN": "Русский"
+    },
+    "LANGUAGE_PROFICIENCY": {
+      "TITLE": "Уровень владения",
+      "BASIC": "Начальный",
+      "INTERMEDIATE": "Средний",
+      "FLUENT": "Свободный",
+      "NATIVE": "Родной"
+    },
+    "PROFESSIONS": {
+      "TITLE": "Вакансии",
+      "TRAINEE": "Курсы",
+      "DEALER": "Дилер",
+      "INSPECTOR": "Инспектор",
+      "MANAGER": "Менеджер",
+      "PIT_BOSS": "Пит босс",
+      "WAITER": "Официант",
+      "BARMAN": "Бармен"
+    },
+    "MESSENGERS": {
+      "TITLE": "Мессенджеры",
+      "TELEGRAM": "Telegram",
+      "VIBER": "WhatsApp",
+      "WHATSAPP": "Viber"
+    },
+    "NOTE": "Примечания",
+    "NOTE_PLACEHOLDER": "Укажите о себе дополнительную информацию: навыки, знание игр, прочее",
+    "SUBMIT": "Отправить",
+    "RESET": "Сбросить"
+  },
+  "VIEW": {
+    "FILTER": "Фильтр",
+    "LIST": "Список",
+    "COMMENT": "Комментарии",
+    "PDF": "Получить в PDF"
+  },
+  "PDF": {
+    "OPEN": "Открыть PDF",
+    "DOWNLOAD": "Скачать PDF",
+    "PRINT": "Печатать PDF"
+  },
+  "ERROR": {
+    "REQUIRED": "Поле обьязательно",
+    "WHITESPACE": "Не может быть пустым",
+    "EMAIL": "Введите корректный емейл",
+    "MIN": "Дожно быть больше чем {{VALUE}}",
+    "MAX": "Должно быть меньше чем {{VALUE}}",
+    "MINLENGTH": "Дожно быть длиннее {{VALUE}}",
+    "MAXLENGTH": "Должно быть короче {{VALUE}}"
+  }
+}
